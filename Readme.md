@@ -1,3 +1,6 @@
+![Captura de tela 2023-11-10 161251](https://github.com/IsabellaSMA/TCC2023/assets/86487337/7ecd8afb-66fa-4adf-b71d-e0b1e78ae5d6)
+
+
 Trabalho de conclusão de Curso
 Jogo- Gunblade Hero -> Um herói, conhecido como Jeremy parte em uma jornada em encontrar um grupo de mercenários denominados "6 balas" para derrotar o terrível Bill Alisson, responsável pela morte de sua família.
 Enfrente animais da fauna texana, pule sobre plataformas com sua gunblade, ajude Jeremy a encontrar os 6 balas e concluir seu objetivo.
