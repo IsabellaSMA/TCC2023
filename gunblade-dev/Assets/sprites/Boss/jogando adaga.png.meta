@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: ac43e3775f3acc74cbfa09b7c367a38c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jogando adaga_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 128
+        height: 384
+      alignment: 9
+      pivot: {x: 0.57287073, y: 0.49379966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851b44e41b1ac24db974165a54d86b3
+      internalID: 832781927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 131
+        height: 384
+      alignment: 9
+      pivot: {x: 0.56656885, y: 0.46804047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0619405ec71d2434f9aa2efd65dfedf5
+      internalID: 1085164545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_2
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 0
+        width: 131
+        height: 384
+      alignment: 9
+      pivot: {x: 0.592698, y: 0.47675192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185618620dbc94b4ba5d43d0ea4c585e
+      internalID: -986458044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 144
+        height: 384
+      alignment: 9
+      pivot: {x: 0.49137032, y: 0.48398614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aec9f891c9385b428b7a37cabf756a2
+      internalID: 1474821350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_4
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 0
+        width: 143
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5091886, y: 0.47458017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b623ff215a3840937a0c80f4c900f
+      internalID: 1984661498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_5
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 0
+        width: 142
+        height: 384
+      alignment: 9
+      pivot: {x: 0.51191133, y: 0.45871663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca2c033d1746d24eb0ba75fa8655a40
+      internalID: 35557911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_6
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 148
+        height: 384
+      alignment: 9
+      pivot: {x: 0.51499486, y: 0.47328138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e265b52b970d16e4da8c010a37b8d02f
+      internalID: 344997509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_7
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 158
+        height: 384
+      alignment: 9
+      pivot: {x: 0.44839206, y: 0.43704793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dbdc7969abd1444b679d62a142745d
+      internalID: -135955049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_8
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 0
+        width: 251
+        height: 384
+      alignment: 9
+      pivot: {x: 0.2884964, y: 0.46620038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc201c2b20695646bec78ed4aa874b2
+      internalID: -1227492902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogando adaga_9
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 0
+        width: 269
+        height: 384
+      alignment: 9
+      pivot: {x: 0.2670136, y: 0.46743345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540971fc54a8274c8e1dec6e2dcbb0c
+      internalID: -1416011800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jogando adaga_0: 832781927
+      jogando adaga_1: 1085164545
+      jogando adaga_2: -986458044
+      jogando adaga_3: 1474821350
+      jogando adaga_4: 1984661498
+      jogando adaga_5: 35557911
+      jogando adaga_6: 344997509
+      jogando adaga_7: -135955049
+      jogando adaga_8: -1227492902
+      jogando adaga_9: -1416011800
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

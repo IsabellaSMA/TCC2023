@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: dedc06c0aa9c0854995920b573f61d7b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Explos\xE3o-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 57
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0c11a54fe7aee46be337298e2073f7
+      internalID: -192501918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explos\xE3o-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 29
+        width: 182
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f978601cf47ca4cbd29ce068cdc5d7
+      internalID: 1715365750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explos\xE3o-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 30
+        width: 170
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5353275, y: 0.5101449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48452e3feb33eef42bf66cb208e8baa6
+      internalID: -789831184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explos\xE3o-Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4abc33dac5a664db5a6ca6d4e6fddf
+      internalID: 199707522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explos\xE3o-Sheet_22"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad901effef90ee84881b71bb49b5ef44
+      internalID: 1264780912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explos\xE3o-Sheet_38"
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 60
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2712085a99d8748a32b4c3455981d9
+      internalID: -1413027369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explos\xE3o-Sheet_40"
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 46
+        width: 166
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5135513, y: 0.4318302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f020200610b4d984f8f35c3f288b8668
+      internalID: -990577197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explos\xE3o-Sheet_42"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 58
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1dc39de421f8247bd0f5bc809bdae0
+      internalID: 1783431419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Explos\xE3o-Sheet_0": -536266684
+      "Explos\xE3o-Sheet_1": -1178076607
+      "Explos\xE3o-Sheet_10": -1713944131
+      "Explos\xE3o-Sheet_11": -1699513474
+      "Explos\xE3o-Sheet_12": 1207383641
+      "Explos\xE3o-Sheet_13": 1267230884
+      "Explos\xE3o-Sheet_14": -645896700
+      "Explos\xE3o-Sheet_15": -933885219
+      "Explos\xE3o-Sheet_16": -193937529
+      "Explos\xE3o-Sheet_17": -283488897
+      "Explos\xE3o-Sheet_18": 1853512337
+      "Explos\xE3o-Sheet_19": 1499253885
+      "Explos\xE3o-Sheet_2": -807021235
+      "Explos\xE3o-Sheet_20": -708330940
+      "Explos\xE3o-Sheet_21": 199707522
+      "Explos\xE3o-Sheet_22": 1264780912
+      "Explos\xE3o-Sheet_23": -346704691
+      "Explos\xE3o-Sheet_24": 389801054
+      "Explos\xE3o-Sheet_25": 1066389931
+      "Explos\xE3o-Sheet_26": -781173876
+      "Explos\xE3o-Sheet_27": 32220000
+      "Explos\xE3o-Sheet_28": -337653283
+      "Explos\xE3o-Sheet_29": -906155660
+      "Explos\xE3o-Sheet_3": -2033386560
+      "Explos\xE3o-Sheet_30": 633491107
+      "Explos\xE3o-Sheet_31": 1447488149
+      "Explos\xE3o-Sheet_32": -1651336167
+      "Explos\xE3o-Sheet_33": -1751935523
+      "Explos\xE3o-Sheet_34": 1898650405
+      "Explos\xE3o-Sheet_35": -89263597
+      "Explos\xE3o-Sheet_36": 240642760
+      "Explos\xE3o-Sheet_37": -6513931
+      "Explos\xE3o-Sheet_38": -1413027369
+      "Explos\xE3o-Sheet_39": 984350103
+      "Explos\xE3o-Sheet_4": -157158321
+      "Explos\xE3o-Sheet_40": -990577197
+      "Explos\xE3o-Sheet_41": -1473334596
+      "Explos\xE3o-Sheet_42": 1783431419
+      "Explos\xE3o-Sheet_43": 618969263
+      "Explos\xE3o-Sheet_44": 379093614
+      "Explos\xE3o-Sheet_5": -192501918
+      "Explos\xE3o-Sheet_6": 1715365750
+      "Explos\xE3o-Sheet_7": -789831184
+      "Explos\xE3o-Sheet_8": -725315022
+      "Explos\xE3o-Sheet_9": -1094442691
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
