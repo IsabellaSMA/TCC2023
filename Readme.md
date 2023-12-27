@@ -1,4 +1,4 @@
-![Captura de tela 2023-11-10 161251](https://github.com/IsabellaSMA/TCC2023/assets/86487337/7ecd8afb-66fa-4adf-b71d-e0b1e78ae5d6)
+<img width="60%" src= "https://github.com/IsabellaSMA/TCC2023/blob/main/gif%20gameplay.gif">
 
 
 Trabalho de conclusão de Curso
