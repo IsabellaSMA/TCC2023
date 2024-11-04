@@ -1,12 +1,16 @@
   ## GUNBLADE HERO
   
 <p align="center">
-  <img width="60%" src= "https://github.com/IsabellaSMA/TCC2023/blob/main/gif%20gameplay.gif">
+  <img width="60%" src= "https://github.com/IsabellaSMA/TCC2023/blob/main/Logo%20do%20Jogo.png">
 </p>
 
 Trabalho de conclusão de Curso
 Jogo- Gunblade Hero -> Um herói, conhecido como Jeremy parte em uma jornada em encontrar um grupo de mercenários denominados "6 balas" para derrotar o terrível Bill Alisson, responsável pela morte de sua família.
 Enfrente animais da fauna texana, pule sobre plataformas com sua gunblade, ajude Jeremy a encontrar os 6 balas e concluir seu objetivo.
+
+<p align="center">
+  <img width="60%" src= "https://github.com/IsabellaSMA/TCC2023/blob/main/gif%20gameplay.gif">
+</p>
 
 Integrantes e funções: 
 André Nardes-> Animador e Gamer Designer;
