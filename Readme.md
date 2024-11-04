@@ -1,5 +1,8 @@
-<img width="60%" src= "https://github.com/IsabellaSMA/TCC2023/blob/main/gif%20gameplay.gif">
-
+  ## GUNBLADE HERO
+  
+<p align="center">
+  <img width="60%" src= "https://github.com/IsabellaSMA/TCC2023/blob/main/gif%20gameplay.gif">
+</p>
 
 Trabalho de conclusão de Curso
 Jogo- Gunblade Hero -> Um herói, conhecido como Jeremy parte em uma jornada em encontrar um grupo de mercenários denominados "6 balas" para derrotar o terrível Bill Alisson, responsável pela morte de sua família.
